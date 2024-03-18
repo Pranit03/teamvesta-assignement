@@ -1,9 +1,10 @@
 import "./App.css";
+import { ChartPage } from "./page/ChartPage";
 
 function App() {
   return (
     <>
-      <h1>Hello</h1>
+      <ChartPage></ChartPage>
     </>
   );
 }
